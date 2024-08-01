@@ -19,7 +19,7 @@ import { Note } from "./types";
 
 const map = L.map("map", {
   zoomControl: false,
-}).setView([51.505, -0.09], 11);
+}).setView([33.749, -84.388], 11);
 
 L.control
   .zoom({
