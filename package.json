@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "leaflet": "^1.9.3",
-    "leaflet.sidepanel": "https://github.com/maxwell-ilai/Leaflet.SidePanel",
+    "leaflet.sidepanel": "https://github.com/maxwell-ilai/Leaflet.SidePanel.git",
     "nostr-tools": "^1.2.1",
     "pluscodes": "^2.6.0"
   }
